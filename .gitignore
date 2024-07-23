@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Cmake Bullshit
+*/build/
+
+# vscode nonsence
+.vscode/
